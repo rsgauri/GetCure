@@ -33,7 +33,7 @@ const Base = ({
             cursor: "pointer",
             color: "black",
           }}
-          href="https://github.com/NaveenMohanty"
+          href="https://github.com/rsgauri"
           target="_blank"
         >
           <img style={imageStyle} src={logo} alt="" />
